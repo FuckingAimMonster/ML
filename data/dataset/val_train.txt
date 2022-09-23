@@ -1,0 +1,474 @@
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_06_01-Greenshot.jpg 943,520,950,530,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_13_10-Greenshot.jpg 936,488,950,503,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_13_12-Greenshot.jpg 995,476,1031,511,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_13_16-Greenshot.jpg 941,529,951,540,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_16_10-Greenshot.jpg 935,526,948,541,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_17_18-Greenshot.jpg 902,541,915,562,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_17_23-Greenshot.jpg 951,535,957,543,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_20_44-Greenshot.jpg 939,460,981,517,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_24_29-Greenshot.jpg 972,511,982,524,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_24_50-Greenshot.jpg 409,355,509,432,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_24_52-Greenshot.jpg 959,542,966,552,0 1349,497,1400,542,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_25_03-Greenshot.jpg 972,520,980,529,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_25_14-Greenshot.jpg 813,513,823,525,0 955,510,967,523,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_25_15-Greenshot.jpg 921,468,929,480,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_25_38-Greenshot.jpg 357,554,406,606,0 947,504,955,514,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_25_50-Greenshot.jpg 1011,442,1038,477,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_28_42-Greenshot.jpg 913,448,935,469,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_29_02-Greenshot.jpg 528,430,558,464,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_30_53-Greenshot.jpg 963,503,970,514,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_31_12-Greenshot.jpg 964,504,972,515,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_31_13-Greenshot.jpg 961,474,969,484,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_31_38-Greenshot.jpg 1003,544,1018,562,0 894,458,903,469,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_33_26-Greenshot.jpg 1028,540,1045,558,0 955,533,963,544,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_33_57-Greenshot.jpg 856,516,865,527,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_34_15-Greenshot.jpg 949,313,962,328,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_34_26-Greenshot.jpg 956,474,961,481,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_34_44-Greenshot.jpg 993,513,1003,525,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_34_46-Greenshot.jpg 970,518,979,529,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_34_47-Greenshot.jpg 1023,467,1036,480,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_36_31-Greenshot.jpg 916,520,923,527,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_36_33-Greenshot.jpg 940,474,952,484,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_36_37-Greenshot.jpg 930,544,934,549,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_36_44-Greenshot.jpg 941,530,956,547,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_37_08-Greenshot.jpg 517,492,549,522,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_37_23-Greenshot.jpg 964,500,974,513,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_38_31-Greenshot.jpg 1147,374,1211,456,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_39_14-Greenshot.jpg 1011,519,1029,541,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_39_22-Greenshot.jpg 1232,216,1245,233,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_42_20-Greenshot.jpg 937,542,947,554,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_42_28-Greenshot.jpg 963,522,978,542,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_43_30-Greenshot.jpg 962,529,975,546,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_43_39-Greenshot.jpg 862,499,881,523,0 1025,499,1041,521,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_45_05-Greenshot.jpg 960,513,976,532,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_45_07-Greenshot.jpg 954,528,964,539,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_45_15-Greenshot.jpg 928,520,935,527,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_45_26-Greenshot.jpg 770,501,783,515,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_47_04-Greenshot.jpg 936,524,944,535,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_47_07-Greenshot.jpg 991,263,1004,280,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_47_15-Greenshot.jpg 1024,496,1034,508,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_47_17-Greenshot.jpg 1094,514,1108,531,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_49_08-Greenshot.jpg 847,513,871,540,0 914,549,929,568,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_49_13-Greenshot.jpg 662,401,702,445,0 989,447,1002,460,0 1051,430,1059,442,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_49_14-Greenshot.jpg 480,474,526,523,0 820,510,831,522,0 959,508,968,519,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_51_29-Greenshot.jpg 763,436,778,457,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_52_01-Greenshot.jpg 892,503,910,528,0 1035,454,1072,493,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_52_07-Greenshot.jpg 1050,465,1076,492,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_53_23-Greenshot.jpg 913,399,939,429,0 1305,401,1333,432,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_53_35-Greenshot.jpg 993,516,1001,527,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_53_38-Greenshot.jpg 959,505,970,519,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_54_41-Greenshot.jpg 707,396,786,476,0 973,525,980,535,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_56_05-Greenshot.jpg 931,423,940,436,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_56_17-Greenshot.jpg 1006,508,1044,562,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_56_38-Greenshot.jpg 892,451,919,490,0 90,392,132,439,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_57_41-Greenshot.jpg 964,513,980,528,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_57_43-Greenshot.jpg 1020,411,1041,432,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_57_45-Greenshot.jpg 708,536,721,550,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_57_47-Greenshot.jpg 987,471,1001,487,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_58_36-Greenshot.jpg 968,506,988,534,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_58_46-Greenshot.jpg 940,524,952,536,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_58_49-Greenshot.jpg 938,530,947,541,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_58_52-Greenshot.jpg 962,526,973,539,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_59_11-Greenshot.jpg 914,500,936,526,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_59_13-Greenshot.jpg 874,483,895,514,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_59_15-Greenshot.jpg 916,447,960,503,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_59_20-Greenshot.jpg 477,404,522,452,0 1029,264,1039,279,0 1203,518,1228,543,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_59_27-Greenshot.jpg 995,554,1010,571,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_59_34-Greenshot.jpg 693,517,702,527,0 993,529,1004,542,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_59_36-Greenshot.jpg 949,513,957,524,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_59_41-Greenshot.jpg 850,503,874,530,0 980,473,1056,552,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_59_47-Greenshot.jpg 801,472,811,486,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_59_50-Greenshot.jpg 888,477,915,505,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/19_59_56-Greenshot.jpg 958,541,963,547,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_33_50-Greenshot.jpg 817,473,829,490,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_34_04-Greenshot.jpg 929,528,942,541,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_34_08-Greenshot.jpg 918,504,943,534,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_34_18-Greenshot.jpg 945,533,951,539,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_34_26-Greenshot.jpg 931,537,942,548,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_34_34-Greenshot.jpg 862,504,900,556,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_34_39-Greenshot.jpg 958,433,990,473,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_36_31-Greenshot.jpg 194,387,233,433,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_36_49-Greenshot.jpg 949,459,964,480,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_38_06-Greenshot.jpg 817,511,832,528,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_38_08-Greenshot.jpg 821,442,865,493,0 209,801,227,819,0 1171,352,1237,424,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_38_37-Greenshot.jpg 936,526,952,541,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_38_38-Greenshot.jpg 896,508,921,534,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_39_00-Greenshot.jpg 956,543,962,549,0 1043,518,1049,523,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_39_30-Greenshot.jpg 905,475,921,497,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_39_56-Greenshot.jpg 707,346,891,547,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_40_01-Greenshot.jpg 954,408,1011,480,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_40_25-Greenshot.jpg 957,535,962,541,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_41_37-Greenshot.jpg 794,524,805,536,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_41_38-Greenshot.jpg 778,494,785,502,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_41_49-Greenshot.jpg 969,443,1001,489,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_42_08-Greenshot.jpg 935,502,956,526,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_42_15-Greenshot.jpg 911,541,925,559,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_42_28-Greenshot.jpg 1096,379,1119,406,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_42_29-Greenshot.jpg 941,397,966,428,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_43_30-Greenshot.jpg 937,494,960,516,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_43_48-Greenshot.jpg 1011,530,1023,545,0 144,632,163,656,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_44_10-Greenshot.jpg 753,215,974,481,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_45_21-Greenshot.jpg 874,457,917,513,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_45_32-Greenshot.jpg 1014,497,1026,511,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_46_06-Greenshot.jpg 770,453,813,507,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_46_15-Greenshot.jpg 1155,115,1372,406,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_46_17-Greenshot.jpg 953,227,978,267,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_46_29-Greenshot.jpg 1000,442,1015,459,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_46_32-Greenshot.jpg 960,486,978,511,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_47_26-Greenshot.jpg 749,550,759,562,0 932,549,949,570,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_47_27-Greenshot.jpg 1038,441,1049,457,0 815,411,837,437,0 530,412,546,432,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_48_44-Greenshot.jpg 1470,347,1499,373,0 1331,289,1363,327,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_48_46-Greenshot.jpg 1267,354,1294,379,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_48_47-Greenshot.jpg 967,430,992,457,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_48_48-Greenshot.jpg 1197,404,1222,434,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_49_30-Greenshot.jpg 690,373,735,441,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_49_48-Greenshot.jpg 961,526,970,538,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_51_09-Greenshot.jpg 1015,484,1039,515,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_51_10-Greenshot.jpg 896,491,916,518,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_51_11-Greenshot.jpg 881,12,922,67,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_51_55-Greenshot.jpg 327,1,612,268,0 955,263,984,305,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_52_37-Greenshot.jpg 964,318,1052,405,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_52_47-Greenshot.jpg 463,361,520,414,0 929,379,959,412,0 993,384,1007,400,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_52_48-Greenshot.jpg 642,462,674,496,0 818,363,838,387,0 904,415,967,479,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_52_49-Greenshot.jpg 56,399,115,459,0 546,422,580,456,0 890,375,954,440,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_52_50-Greenshot.jpg 999,421,1026,447,0 1493,398,1545,448,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_52_54-Greenshot.jpg 1161,358,1177,374,0 1375,353,1395,376,0 1415,345,1437,371,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_53_01-Greenshot.jpg 732,302,809,390,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_53_05-Greenshot.jpg 926,406,938,421,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_53_10-Greenshot.jpg 960,533,970,544,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_58_16-Greenshot.jpg 897,446,956,498,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_58_22-Greenshot.jpg 1764,333,1799,364,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_58_23-Greenshot.jpg 1505,273,1577,336,0 1713,330,1737,357,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_58_30-Greenshot.jpg 1099,478,1124,505,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_58_33-Greenshot.jpg 1052,408,1079,436,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_58_40-Greenshot.jpg 1008,475,1072,549,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_59_09-Greenshot.jpg 912,425,958,483,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_59_18-Greenshot.jpg 955,524,963,533,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_59_43-Greenshot.jpg 1150,399,1167,419,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1919_59_58-Greenshot.jpg 961,506,972,518,0 990,494,997,503,0 1057,506,1066,517,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_00_52-Greenshot.jpg 863,462,891,492,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_00_54-Greenshot.jpg 1039,492,1069,523,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_00_56-Greenshot.jpg 1301,418,1353,475,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_01_56-Greenshot.jpg 1015,592,1040,626,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_01_58-Greenshot.jpg 1072,430,1097,464,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_02_08-Greenshot.jpg 923,503,941,523,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_04_24-Greenshot.jpg 959,505,974,523,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_04_52-Greenshot.jpg 896,450,932,502,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_05_08-Greenshot.jpg 696,455,700,460,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_49_35-.jpg 817,389,824,398,0 897,401,910,414,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_50_00-.jpg 601,455,617,473,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_50_20-.jpg 958,355,967,369,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_50_26-.jpg 893,379,904,391,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_50_27-.jpg 964,525,975,535,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_50_32-.jpg 937,456,951,472,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_50_36-.jpg 550,389,592,434,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_50_54-.jpg 947,515,955,523,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_51_49-.jpg 972,524,984,537,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_51_53-.jpg 953,513,982,544,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_51_56-.jpg 946,501,971,524,0 126,477,161,521,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_52_12-.jpg 964,536,972,546,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_52_41-.jpg 922,517,948,545,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_52_45-.jpg 903,510,951,564,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_52_48-.jpg 1105,628,1126,651,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_52_53-.jpg 915,502,950,537,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_52_54-.jpg 672,522,684,539,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_52_58-.jpg 685,531,702,549,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_53_03-.jpg 926,524,956,562,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_53_58-.jpg 936,496,948,514,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_54_08-.jpg 1150,559,1162,569,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_54_09-.jpg 665,470,674,480,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_54_32-.jpg 971,464,1003,497,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_54_33-.jpg 1208,480,1242,517,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_54_34-.jpg 462,586,497,619,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_55_11-.jpg 922,385,945,416,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_55_37-.jpg 967,504,975,516,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_55_42-.jpg 913,488,924,504,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_55_46-.jpg 960,455,987,496,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_56_13-.jpg 878,484,908,522,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_56_29-.jpg 1211,465,1231,485,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_56_44-.jpg 962,501,978,521,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_56_54-.jpg 1006,517,1012,524,0 1404,698,1432,722,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/2022-09-1920_56_55-.jpg 983,475,992,487,0 1037,456,1058,475,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_00_01-Greenshot.jpg 352,490,396,545,0 955,532,962,541,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_00_02-Greenshot.jpg 167,453,215,513,0 962,471,969,481,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_00_05-Greenshot.jpg 991,496,1000,509,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_00_07-Greenshot.jpg 921,505,931,516,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_02_24-Greenshot.jpg 346,493,389,548,0 951,534,958,542,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_02_33-Greenshot.jpg 956,547,962,554,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_02_36-Greenshot.jpg 1008,404,1071,490,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_02_42-Greenshot.jpg 961,526,967,533,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_03_15-Greenshot.jpg 889,485,903,501,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_03_21-Greenshot.jpg 993,449,1028,496,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_03_30-Greenshot.jpg 978,400,1011,449,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_03_35-Greenshot.jpg 834,515,886,583,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_03_39-Greenshot.jpg 913,503,931,527,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_03_55-Greenshot.jpg 969,477,1010,525,0 1319,475,1330,490,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_03_58-Greenshot.jpg 935,530,943,541,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_04_07-Greenshot.jpg 944,503,962,532,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_06_42-Greenshot.jpg 948,546,954,554,0 1358,545,1436,625,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_06_52-Greenshot.jpg 969,504,994,534,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_07_36-Greenshot.jpg 960,507,967,515,0 984,491,996,502,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_07_41-Greenshot.jpg 959,448,992,485,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_08_18-Greenshot.jpg 890,495,897,505,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_10_57-Greenshot.jpg 929,525,941,538,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_11_00-Greenshot.jpg 957,497,970,513,0 1387,631,1408,653,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_11_03-Greenshot.jpg 917,386,943,414,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_12_17-Greenshot.jpg 994,449,1031,501,0 1255,396,1277,425,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_13_42-Greenshot.jpg 952,530,960,542,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_15_08-Greenshot.jpg 509,313,550,366,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_15_41-Greenshot.jpg 951,537,959,544,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_15_51-Greenshot.jpg 934,537,948,549,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_16_20-Greenshot.jpg 976,525,984,533,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_19_30-Greenshot.jpg 956,545,965,552,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_19_37-Greenshot.jpg 967,496,978,508,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_19_45-Greenshot.jpg 1045,453,1053,464,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_19_50-Greenshot.jpg 1080,466,1135,550,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_19_58-Greenshot.jpg 940,479,978,536,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_20_02-Greenshot.jpg 973,541,980,548,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_20_05-Greenshot.jpg 922,506,946,535,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_20_23-Greenshot.jpg 845,710,876,745,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_21_35-Greenshot.jpg 925,437,954,464,0 870,463,887,480,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_21_52-Greenshot.jpg 949,524,958,536,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_22_56-Greenshot.jpg 992,522,1002,534,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_23_55-Greenshot.jpg 999,517,1030,557,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_24_51-Greenshot.jpg 921,521,936,538,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_25_03-Greenshot.jpg 953,524,966,541,0 1444,512,1476,539,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_26_32-Greenshot.jpg 923,498,940,515,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_26_34-Greenshot.jpg 939,512,951,525,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/20_27_01-Greenshot.jpg 532,415,573,462,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.28.02.jpg 1471,818,1503,856,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.28.07.jpg 711,666,754,707,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.28.39.jpg 1351,858,1364,873,0 1427,873,1454,901,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.29.12.jpg 1420,862,1438,880,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.29.45.jpg 1283,807,1304,832,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.30.02.jpg 1464,864,1477,881,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.30.27.jpg 1283,792,1301,813,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.30.53.jpg 1387,827,1424,868,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.31.17.jpg 1442,890,1453,904,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.31.27.jpg 1369,892,1388,917,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.31.33.jpg 1421,903,1428,913,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.31.37.jpg 1244,1277,1267,1303,0 1392,850,1414,883,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.31.41.jpg 1384,897,1402,923,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.31.43.jpg 1428,897,1450,927,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.31.47.jpg 1380,882,1399,910,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.32.03.jpg 1432,896,1444,911,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.32.35.jpg 1421,887,1435,904,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.33.04.jpg 1472,887,1482,899,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.33.09.jpg 1430,904,1443,919,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.33.22.jpg 1383,952,1397,972,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.33.29.jpg 1407,957,1429,985,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.33.36.jpg 1437,963,1452,979,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.33.43.jpg 1213,885,1230,904,0 1475,884,1488,898,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.34.08.jpg 1474,890,1487,908,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.34.12.jpg 1398,834,1477,927,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.34.17.jpg 1270,858,1305,896,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.34.22.jpg 212,859,255,906,0 1476,865,1505,898,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.34.34.jpg 746,893,766,916,0 1557,894,1573,914,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.34.43.jpg 1376,865,1413,907,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.34.46.jpg 1422,879,1434,894,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.35.27.jpg 1437,871,1468,904,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.35.33.jpg 1383,897,1400,916,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.35.49.jpg 1443,894,1454,908,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.35.53.jpg 1418,896,1430,910,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.36.07.jpg 1380,876,1391,891,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.36.12.jpg 862,807,906,842,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.36.20.jpg 1388,926,1413,956,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.36.32.jpg 1383,892,1392,904,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.36.40.jpg 1411,845,1425,864,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.36.54.jpg 1484,778,1506,806,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.37.02.jpg 1403,885,1430,921,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.37.11.jpg 980,412,1012,449,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.37.18.jpg 1455,876,1470,895,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.37.36.jpg 1644,944,1657,963,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.37.45.jpg 1406,887,1419,903,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.37.57.jpg 1408,876,1435,905,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.38.24.jpg 1437,890,1451,905,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.38.28.jpg 1393,888,1409,908,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.38.47.jpg 1389,746,1427,788,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.38.54.jpg 2592,635,2819,820,0 2302,581,2322,600,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.39.05.jpg 1445,882,1464,903,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.39.26.jpg 1442,881,1470,909,0 1534,829,1554,852,0 1649,875,1669,896,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.39.40.jpg 1561,891,1591,924,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.39.48.jpg 1380,851,1409,890,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.39.58.jpg 1450,871,1470,901,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.47.34.jpg 1555,870,1585,900,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.47.44.jpg 1436,913,1449,929,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.48.02.jpg 1450,886,1477,915,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.48.07.jpg 1504,763,1549,808,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.48.16.jpg 1472,837,1488,854,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.48.28.jpg 1324,943,1344,966,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.48.52.jpg 1438,857,1451,872,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.48.55.jpg 1438,857,1477,895,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.49.08.jpg 1451,869,1474,896,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.49.14.jpg 1445,860,1480,899,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.49.24.jpg 1620,881,1643,903,0 1555,886,1571,906,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.49.39.jpg 1620,861,1655,895,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.49.58.jpg 1396,877,1410,895,0 1438,873,1450,889,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.50.05.jpg 1403,869,1435,909,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.50.30.jpg 1282,831,1338,906,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.50.35.jpg 1414,863,1444,897,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.50.47.jpg 1161,904,1216,968,0 1298,893,1318,914,0 1458,885,1487,915,0 1682,888,1707,911,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.50.58.jpg 1434,881,1454,901,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.58.08.jpg 1494,869,1555,951,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.58.38.jpg 1566,723,1584,742,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.58.53.jpg 139,241,213,333,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.7.59.45.jpg 1451,813,1482,850,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.04.13.jpg 1143,686,1233,790,0 1355,682,1400,746,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.04.14.jpg 1840,659,1931,752,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.04.19.jpg 385,744,420,783,0 2078,672,2162,800,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.04.26.jpg 1292,702,1335,745,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.04.28.jpg 1552,770,1569,788,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.04.30.jpg 1508,865,1527,886,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.04.33.jpg 1352,743,1370,759,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.04.45.jpg 1200,486,1302,610,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.04.55.jpg 1407,793,1415,806,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.05.05.jpg 1092,873,1111,898,0 1377,725,1497,838,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.05.07.jpg 1543,737,1570,773,0 1237,741,1253,761,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.05.36.jpg 1497,761,1507,776,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.05.39.jpg 1296,783,1316,807,0 1328,779,1343,798,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.05.40.jpg 673,716,741,800,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.06.23.jpg 1089,761,1135,815,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.06.27.jpg 51,1010,119,1082,0 1388,899,1409,925,0 1890,785,2109,1027,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.06.29.jpg 886,855,933,912,0 2484,535,2768,823,0 1457,795,1479,822,0 1664,788,1686,814,0 1749,666,1767,684,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.06.34.jpg 290,965,351,1027,0 1359,815,1370,831,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.06.38.jpg 1479,746,1535,796,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.06.41.jpg 1570,855,1608,895,0 2505,840,2588,914,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.06.42.jpg 947,962,1016,1030,0 1483,904,1500,923,0 2396,976,2460,1044,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.06.45.jpg 1377,781,1397,801,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.07.40.jpg 1355,817,1370,843,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.07.41.jpg 1315,741,1336,774,0 1707,760,1727,792,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.07.43.jpg 487,731,678,970,0 1563,786,1583,817,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.08.44.jpg 1339,836,1358,863,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.08.45.jpg 1357,663,1384,693,0 1460,558,1486,595,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.09.22.jpg 1317,797,1339,818,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.09.39.jpg 1322,844,1335,858,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.09.42.jpg 1448,864,1463,881,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.09.47.jpg 1890,477,1953,561,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.10.06.jpg 1517,864,1530,880,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.10.14.jpg 1746,734,1770,756,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.10.27.jpg 1162,719,1187,747,0 1431,725,1454,756,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.11.05.jpg 1382,844,1392,856,0 1431,838,1441,851,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.11.12.jpg 1481,884,1502,907,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot0919.8.11.17.jpg 1487,772,1526,828,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot4.55.31.jpg 1392,834,1437,885,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot4.55.42.jpg 1418,871,1456,918,0 1880,572,1893,594,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot4.56.49.jpg 1415,882,1425,897,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot4.57.04.jpg 1534,889,1555,913,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot4.57.42.jpg 1451,892,1469,912,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot4.57.52.jpg 1454,886,1473,913,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot4.57.57.jpg 1425,868,1453,899,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot4.58.09.jpg 1376,907,1396,926,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot4.58.12.jpg 1464,880,1496,916,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot4.58.21.jpg 1252,883,1272,903,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot4.58.30.jpg 1368,886,1394,915,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot4.58.46.jpg 1409,889,1433,923,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot4.58.52.jpg 1366,891,1469,991,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot4.59.26.jpg 1420,887,1446,924,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot4.59.31.jpg 1416,885,1439,912,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.00.24.jpg 1486,903,1507,927,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.00.40.jpg 1402,875,1435,911,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.00.56.jpg 1315,831,1378,898,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.01.04.jpg 1407,784,1422,801,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.01.22.jpg 1412,888,1426,903,0 2428,883,2467,923,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.02.06.jpg 1518,862,1549,906,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.02.34.jpg 1492,894,1514,916,0 1536,833,1550,848,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.03.03.jpg 1355,861,1406,923,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.03.58.jpg 1418,871,1448,903,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.04.39.jpg 1390,862,1449,928,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.04.56.jpg 1415,836,1459,893,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.05.02.jpg 1409,888,1429,911,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.05.21.jpg 1460,859,1477,881,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.05.28.jpg 1488,893,1497,905,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.05.33.jpg 1438,887,1454,908,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.05.41.jpg 1682,938,1708,965,0 1625,899,1635,910,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.06.40.jpg 1528,773,1590,852,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.06.46.jpg 1439,890,1454,908,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.07.14.jpg 1399,886,1422,915,0 1627,881,1646,899,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.07.30.jpg 1480,872,1502,900,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.08.21.jpg 1384,893,1398,910,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.08.29.jpg 1435,965,1451,984,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.08.46.jpg 1416,890,1436,916,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.09.20.jpg 1398,877,1422,904,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.09.24.jpg 1437,902,1451,918,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.09.57.jpg 1433,887,1445,898,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.10.30.jpg 1428,876,1452,905,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.11.15.jpg 1757,728,1790,760,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.11.24.jpg 1420,869,1439,892,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.11.50.jpg 1429,872,1443,887,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.11.53.jpg 1394,853,1427,890,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.11.56.jpg 1023,799,1057,844,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.12.04.jpg 1420,856,1458,901,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.12.25.jpg 1426,883,1444,905,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.12.33.jpg 1428,877,1448,898,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.12.37.jpg 1559,790,1579,810,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.13.10.jpg 1440,910,1472,940,0 1586,911,1609,940,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.14.05.jpg 1420,878,1435,897,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.14.15.jpg 1446,883,1457,897,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.14.26.jpg 1484,885,1497,899,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.14.30.jpg 1444,896,1459,917,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.15.26.jpg 1379,973,1439,1034,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.15.36.jpg 1400,921,1448,981,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.15.50.jpg 1436,891,1455,913,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.15.53.jpg 1415,900,1432,921,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.16.04.jpg 1422,865,1447,899,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.16.08.jpg 1426,865,1458,898,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.16.11.jpg 1318,845,1340,870,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.16.25.jpg 1414,880,1438,910,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.16.31.jpg 1501,797,1524,822,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.16.45.jpg 1467,877,1493,903,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.17.13.jpg 1430,868,1454,895,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.17.17.jpg 1437,824,1455,849,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.17.20.jpg 1464,895,1480,919,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.17.27.jpg 1446,898,1460,913,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.18.02.jpg 1418,877,1449,920,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.18.27.jpg 1418,887,1436,907,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.18.33.jpg 1485,838,1521,884,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.18.41.jpg 1236,848,1264,877,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.18.51.jpg 1151,867,1177,893,0 1487,551,1508,569,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.18.56.jpg 1432,722,1465,754,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.19.02.jpg 1309,554,1378,624,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.19.14.jpg 1460,875,1485,899,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.19.46.jpg 1391,869,1412,891,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.19.51.jpg 1439,888,1456,907,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.19.59.jpg 1484,879,1520,919,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.20.01.jpg 1401,797,1455,860,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.20.12.jpg 1353,820,1377,847,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.20.42.jpg 811,887,825,901,0 1250,892,1271,912,0 1071,971,1103,1006,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.22.28.jpg 1455,882,1476,903,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.23.27.jpg 1441,886,1454,905,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.25.33.jpg 1546,768,1587,816,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.26.27.jpg 1436,815,1459,842,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.26.43.jpg 1457,889,1471,902,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.27.11.jpg 1429,895,1443,913,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.27.32.jpg 672,971,703,1002,0 2039,883,2067,911,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.28.41.jpg 2537,582,2672,704,0 1423,824,1469,866,0 1981,896,1992,922,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.28.44.jpg 1391,853,1431,891,0 1316,877,1339,900,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.28.48.jpg 1564,860,1589,892,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.29.17.jpg 1438,827,1459,854,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.29.26.jpg 1393,884,1423,916,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.29.41.jpg 1913,895,1948,929,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.29.47.jpg 862,937,936,1011,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.30.05.jpg 1462,833,1491,867,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.30.17.jpg 1459,759,1515,818,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.30.40.jpg 1435,879,1468,912,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.31.01.jpg 1122,866,1140,887,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.31.26.jpg 1096,934,1112,956,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.31.43.jpg 1417,854,1437,876,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.32.20.jpg 1470,859,1495,884,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.32.33.jpg 1413,893,1434,914,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.33.22.jpg 121,864,178,913,0 1418,578,1470,633,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.33.27.jpg 1406,833,1441,880,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.34.38.jpg 1384,850,1434,908,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.34.43.jpg 1722,807,1837,941,0 1516,784,1534,811,0 1383,875,1410,906,0 1328,884,1348,910,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.35.11.jpg 1433,902,1444,916,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.35.29.jpg 1441,695,1462,719,0 1523,672,1547,699,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.37.33.jpg 1398,853,1414,874,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.37.51.jpg 1463,943,1497,985,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.37.55.jpg 1383,837,1411,880,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.38.11.jpg 1173,765,1201,802,0 1440,876,1459,894,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.39.17.jpg 1393,821,1422,856,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.39.32.jpg 1429,882,1444,900,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.40.03.jpg 1452,875,1464,891,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.40.40.jpg 1492,895,1514,917,0 1584,866,1599,883,0 1763,900,1789,921,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.41.12.jpg 1401,885,1416,905,0
+C:/Users/yg058/Desktop/study/DeepLearning/capstone/valdata/Cab/img/screenshot5.41.28.jpg 1187,389,1221,426,0
