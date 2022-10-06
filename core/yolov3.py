@@ -24,6 +24,8 @@ ANCHORS         = utils.get_anchors(cfg.YOLO.ANCHORS)
 STRIDES         = np.array(cfg.YOLO.STRIDES)
 IOU_LOSS_THRESH = cfg.YOLO.IOU_LOSS_THRESH
 
+epsilon = 1e-07
+
 def YOLOv3(input_layer):
     route_1, route_2, conv = backbone.darknet53(input_layer)
 
@@ -116,7 +118,7 @@ def bbox_iou(boxes1, boxes2):
     inter_area = inter_section[..., 0] * inter_section[..., 1]
     union_area = boxes1_area + boxes2_area - inter_area
 
-    return 1.0 * inter_area / union_area
+    return (1.0 * inter_area  + epsilon) / (union_area + epsilon)
 
 def bbox_giou(boxes1, boxes2):
 
@@ -139,13 +141,13 @@ def bbox_giou(boxes1, boxes2):
     inter_section = tf.maximum(right_down - left_up, 0.0)
     inter_area = inter_section[..., 0] * inter_section[..., 1]
     union_area = boxes1_area + boxes2_area - inter_area
-    iou = inter_area / union_area
+    iou = (inter_area + epsilon) / (union_area + epsilon)
 
     enclose_left_up = tf.minimum(boxes1[..., :2], boxes2[..., :2])
     enclose_right_down = tf.maximum(boxes1[..., 2:], boxes2[..., 2:])
     enclose = tf.maximum(enclose_right_down - enclose_left_up, 0.0)
     enclose_area = enclose[..., 0] * enclose[..., 1]
-    giou = iou - 1.0 * (enclose_area - union_area) / enclose_area
+    giou = iou - (1.0 * (enclose_area - union_area) + epsilon) / (enclose_area + epsilon)
 
     return giou
 
