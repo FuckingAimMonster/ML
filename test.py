@@ -21,6 +21,31 @@ from core.config import cfg
 from core.yolov3 import YOLOv3, decode
 
 
+def center_crop(img):
+    
+    h, w, c = img.shape
+    set_size = 700
+    if set_size > min(h, w):
+        return img
+
+    crop_width = set_size
+    crop_height = set_size
+
+    mid_x, mid_y = w//2, h//2
+    offset_x, offset_y = crop_width//2, crop_height//2
+       
+    crop_img = img[mid_y - offset_y:mid_y + offset_y, mid_x - offset_x:mid_x + offset_x]
+    return crop_img
+
+def get_head_coord(img, bboxes):
+    # bboxes: [x_min, y_min, x_max, y_max, probability, cls_id] format coordinates.
+    x = int((bboxes[0][2] - bboxes[0][0]) / 2 + bboxes[0][0])
+    y = int((bboxes[0][3] - bboxes[0][1]) * 1.5 / 14.57 + bboxes[0][1])
+    print(x, y)
+    cv2.line(img, (x, y), (x, y), (0,0,255), 3)
+    return image
+
+
 INPUT_SIZE   = 416
 NUM_CLASS    = len(utils.read_class_names(cfg.YOLO.CLASSES))
 CLASSES      = utils.read_class_names(cfg.YOLO.CLASSES)
@@ -55,6 +80,7 @@ with open(cfg.TEST.ANNOT_PATH, 'r') as annotation_file:
         image_path = annotation[0]
         image_name = image_path.split('/')[-1]
         image = cv2.imread(image_path)
+        # image = center_crop(image)
         image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
         bbox_data_gt = np.array([list(map(int, box.split(','))) for box in annotation[1:]])
 
@@ -86,9 +112,14 @@ with open(cfg.TEST.ANNOT_PATH, 'r') as annotation_file:
         pred_bbox = tf.concat(pred_bbox, axis=0)
         bboxes = utils.postprocess_boxes(pred_bbox, image_size, INPUT_SIZE, cfg.TEST.SCORE_THRESHOLD)
         bboxes = utils.nms(bboxes, cfg.TEST.IOU_THRESHOLD, method='nms')
-
+        np_bboxes = np.array(bboxes)
+        print(np_bboxes.shape)
+        if np_bboxes.shape[0] != 1:
+            print("pass!")
+            continue
         if cfg.TEST.DECTECTED_IMAGE_PATH is not None:
             image = utils.draw_bbox(image, bboxes)
+            image = get_head_coord(image,bboxes)
             # cv2.imshow("image", image)
             # cv2.waitKey() 
             cv2.imwrite(cfg.TEST.DECTECTED_IMAGE_PATH+image_name, image)
